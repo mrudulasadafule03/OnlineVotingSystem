@@ -71,7 +71,6 @@ online-voting-system/
      
   ```
   db_file/online-voting-system.sql
-
   ```
 
 3. Configure database credentials in `api/connection.php`:
@@ -88,5 +87,4 @@ $dbname     = "voting";
 
 ```
 http://localhost/online-voting-system
-
 ```
