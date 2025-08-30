@@ -1,6 +1,6 @@
 # 🗳️ Online Voting System
 
-An **Online Voting System** built with PHP, MySQL, HTML, CSS, and JavaScript. This system allows voters to register, log in, and cast their votes securely. It also provides a result dashboard for displaying election outcomes.
+An **Online Voting System** built with PHP, MySQL, HTML, and CSS. This system allows voters to register, log in, and cast their votes securely. It also provides a result dashboard for displaying election outcomes.
 
 ---
 
@@ -15,7 +15,7 @@ An **Online Voting System** built with PHP, MySQL, HTML, CSS, and JavaScript. Th
 ---
 
 ## 🛠️ Technologies Used
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS 
 - **Backend:** PHP  
 - **Database:** MySQL  
 - **Server:** XAMPP (Apache + MySQL)  
